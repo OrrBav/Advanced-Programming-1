@@ -9,8 +9,7 @@
                 "-g",
                 "*.cpp",
                 "-o",
-                "${fileDirname}/a.out"
-                //"${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
