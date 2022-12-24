@@ -1,5 +1,7 @@
 # Advanced-Programming-ex 1 part 2
 this is the manual for the second part of Ex1.
+**important note:** due to an accidant, we merged a branch from a forked repository for Ex3 to the main brnach on the original repository. 
+We revrted it back, and you can see in poll history that we did not change toe content of .cpp files for Ex1. 
 
 **to compile and run perform the following commands:**
 1. git init
