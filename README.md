@@ -5,8 +5,8 @@ this is the manual for Ex2.
 1. git init
 2. git clone -b Ex2-Master-Branch https://github.com/OrrBav/Advanced-Programming-1.git (the designated branch for Ex2)
 3. cd Advanced-Programming-1
-4. make 
-5 ./a.out argv[1](k value) argv[2] (path of file) argv[3] (distance matric).
+4. make
+5. ./a.out argv[1](k value) argv[2] (path of file) argv[3] (distance matric).
 
 **Our code is an implementation of the KNN algorithm:**
 the program is initiated from main, receiving 3 arguments to init the run-
